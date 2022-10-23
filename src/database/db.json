@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Learn VueJS",
+      "details": "No details provided.",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Learn VueJS",
+      "details": "Learn everything from the very basics to the most advanced schemas of VueJS and conquer the whole world!!.",
+      "completed": false
+    }
+  ]
+}
