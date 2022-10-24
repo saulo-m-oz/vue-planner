@@ -8,9 +8,15 @@
     },
     {
       "id": 2,
-      "title": "Learn VueJS",
-      "details": "Learn everything from the very basics to the most advanced schemas of VueJS and conquer the whole world!!.",
+      "title": "XABULEIBE",
+      "details": "XABU",
       "completed": false
+    },
+    {
+      "title": "Create an full stack application using VueJS and Django",
+      "details": "Create an full stack application using VueJS and Django",
+      "completed": false,
+      "id": 3
     }
   ]
 }
